@@ -24,6 +24,6 @@ Early and accurate diagnosis is crucial for effective treatment.
 
 ## Results
 The model achieves high accuracy (94%) in differentiating between healthy and malaria-infected blood cells. 
-The results, including precision, recall, and F1-score, are presented in the notebook for further analysis.
+The results are presented in the notebook for further analysis.
 The last code block in the notebook file should lay out 9 cells with two letter on top (P for parasitic and U for unparasitic).
 The first letter determines its actual infected status and the following letter shows the predicted.
