@@ -18,8 +18,8 @@ Early and accurate diagnosis is crucial for effective treatment.
 ## How to Use
 1. Make sure to have python installed along with Jupyter Notebook. Install JB using the following ```pip install jupyter```
 2. Clone the repository to your local machine using  ```git clone```
-3. Navigate into the repository you just cloned using ```cd MachineLearning```
-4. Launch Jupyter Notebook using the following command while still in the MachineLearning directory: ```jupyter notebook```.
+3. Navigate into the repository you just cloned using ```cd MalariaDetectionTF```
+4. Launch Jupyter Notebook using the following command while still in the MalariaDetectionTF directory: ```jupyter notebook```.
 5. The project should appear in a python notebook file and should be ready to run.
 
 ## Results
